@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Task3
+
+  Created by Вадим Сайко on 26.12.22.
+  
+*/
+"favourites_title" = "Любимые";
+"contacts_title" = "Контакты";
+"detail_title" = "Детальная информация";
