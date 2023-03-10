@@ -1,0 +1,3 @@
+The task was to make UITabBarController ("Contacts" and "Favourites" tabs). Tabs are animated when you click on it. First tab contains UITableView with contacts received from the device (Contacts framework). You can edit contact info (phone number formatter for Belarus numbers included). You can also call alert with actions by long pressure on contact. Contact will be shown in "Favourites" tab when you push heart button of contact. All changes are stored on the device using FileManager. The application also has functionality in case of discard to provide contacts info or deleting all the contacts received from the device. 
+
+https://user-images.githubusercontent.com/109769898/224307802-fb619e98-7ef4-4eaa-a3e7-4565734dd770.mp4
